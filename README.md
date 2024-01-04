@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisvmazijk&show_icons=true&show=reviews&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisvmazijk&include_all_commits=true&show_icons=true&show=reviews)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisvmazijk&layout=compact)
 
